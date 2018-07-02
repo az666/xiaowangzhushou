@@ -1,3 +1,4 @@
+--个人博客  http://www.wenzheng.club/
 local Http=luajava.bindClass "com.androlua.Http"
 local File=luajava.bindClass "java.io.File"
 local pairs,tostring,print,dump,xpcall=pairs,tostring,print,dump,xpcall
